@@ -7,3 +7,6 @@ Funcionalidades:
 - Conversão de BRL para USD, EUR, GBP e outras moedas.
 - Interface via terminal (linha de comando).
 - Fácil de expandir com uso de APIs (ex: taxas de câmbio em tempo real).
+
+
+Santiago Barbosa
